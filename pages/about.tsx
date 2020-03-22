@@ -3,8 +3,8 @@ import Container from '@material-ui/core/Container'
 import Typography from '@material-ui/core/Typography'
 import Box from '@material-ui/core/Box'
 import MuiLink from '@material-ui/core/Link'
-import ProTip from '../src/components/starters/ProTip'
-import Link from '../src/components/starters/Link'
+import ProTip from '../src/components/examples/ProTip'
+import Link from '../src/components/examples/Link'
 
 function Copyright() {
     return (

@@ -5030,6 +5030,11 @@ react-is@^16.7.0, react-is@^16.8.0, react-is@^16.8.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
+react-progressive-image-loading@^3.0.3:
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/react-progressive-image-loading/-/react-progressive-image-loading-3.0.3.tgz#7e99298b9bd76bc7dcfba9cdf83c263d41f17dc3"
+  integrity sha1-fpkpi5vXa8fc+6nN+DwmPUHxfcM=
+
 react-transition-group@^4.3.0:
   version "4.3.0"
   resolved "https://registry.yarnpkg.com/react-transition-group/-/react-transition-group-4.3.0.tgz#fea832e386cf8796c58b61874a3319704f5ce683"

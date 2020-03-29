@@ -7,6 +7,7 @@
 ## 1. Requirements
 
 -   needs to accept donations
+-   does thing
 -   mobile friendly
 -   501c info
 -   visible info on programs
